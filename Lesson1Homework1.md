@@ -11,6 +11,7 @@
 | Week 1-5      | Linux(bash)     |  
 | Week 6-16   | R   |  
 | Week 11-16   | Python(optional  |  
+
 NGS数据分析： Weeks 4-11   
 机器学习： Weeks 12-16  
 **学习要求**  
