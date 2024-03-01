@@ -22,5 +22,7 @@ NGS数据分析： Weeks 4-11
 课堂互动问题 + 作业（8-9次） + Presentation*1（15-16周，教师和助教打3分，学生互评打7分）  
 \*第四节课起，课程开始为教师答疑，课后30min为助教答疑，注意email联系  
 
-## <font color=Red>1.3 课程概要</font>
+## 1.3 课程概要  
+# 1.3.0 算法(algorithm) vs 模型(model)  
+· <font color=red>**算法是一种手段，模型是算法的产出**</font>
 
