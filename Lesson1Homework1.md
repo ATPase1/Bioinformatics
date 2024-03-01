@@ -3,7 +3,7 @@
 **先修需求：** 微积分、线性代数与几何、概率论与数理统计、物理化学、量子力学；会自己安装软件，有基本的编程能力，接触过Linux  
 **主要教材：** [Bioinformatics Tutorial](https://book.ncrnalab.org/teaching/) + 上课PPT  
 
-## 1.2 学前准备  
+## 1.2 课堂介绍  
 **学习内容**  
 编程技巧： Weeks 1-16  
 | 时间        | 任务        |
@@ -19,4 +19,8 @@ NGS数据分析： Weeks 4-11
 课下： 每周3-5h  
 \*进阶教材： 《Bioinformatics Data Skills》  
 **评分细则**  
-课堂互动问题 + 作业（8-9次） + Presentation*1（15-16周，教师和助教打3分，学生互评打7分）
+课堂互动问题 + 作业（8-9次） + Presentation*1（15-16周，教师和助教打3分，学生互评打7分）  
+\*第四节课起，课程开始为教师答疑，课后30min为助教答疑，注意email联系  
+
+## <font color=Red> 1.3 课程概要 </font>
+
