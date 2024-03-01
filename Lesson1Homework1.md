@@ -24,5 +24,5 @@ NGS数据分析： Weeks 4-11
 
 ## 1.3 课程概要  
 # 1.3.0 算法(algorithm) vs 模型(model)  
-· <font color=red>**算法是一种手段，模型是算法的产出**</font>
+<font color=red>算法是一种手段，模型是算法的产出</font>
 
