@@ -48,7 +48,8 @@ NGS数据分析： Weeks 4-11
 | Week 1     | 安装相关程序，学习使用GitHub，**重温Linux和bash基本知识，阅读Tutorial的Linux部分**    |  
 | Week 2-4   | 练习shell脚本编写，继续积累Linux相关知识，阅读推荐bloc，观看[北大mooc相关部分](https://www.bilibili.com/video/BV1hx411U7cL/?spm_id_from=333.337.search-card.all.click&vd_source=fa07e929b15362328bac7051e0bd62ee/)   |  
 | Week 5  |  **阅读Tutorial的R部分**，若有余力，阅读[Quick R](https://www.statmethods.net/)  |  
-
+| Week 6-11  |  **练习使用R的功能，如ggplot**，继续阅读[Quick R](https://www.statmethods.net/)  |  
+| Week 12-14  |  **练习利用Machine Learning，尝试应用于实验室研究，加深理解、熟练使用** |  
 
 
 
